@@ -7,4 +7,4 @@ updates:
     # Disable version updates for npm dependencies
     open-pull-requests-limit: 0
     ignore:
-      - dependency-name: "rustls"
+      - dependency-name: "urllib3"
